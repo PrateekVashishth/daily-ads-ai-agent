@@ -1,0 +1,12 @@
+crewai==0.80.0
+crewai-tools==0.17.0
+openai>=1.0.0
+python-dotenv>=1.0.0
+requests>=2.31.0
+apify-client>=1.7.0
+google-auth>=2.23.0
+google-auth-oauthlib>=1.1.0
+google-api-python-client>=2.100.0
+pydantic>=2.0.0
+loguru>=0.7.0
+tenacity>=8.2.0
